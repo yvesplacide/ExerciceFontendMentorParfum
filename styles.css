@@ -94,7 +94,6 @@ button:hover {
   .img {
     content: url("images/image-product-mobile.jpg");
     object-fit: cover;
-    height: 100%;
     border-bottom-left-radius: 0;
     border-top-right-radius: 10px;
   }
